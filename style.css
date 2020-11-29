@@ -1,0 +1,31 @@
+#timer {
+    background-color: #b0c4de ;
+    float: right;
+}
+
+.title {
+    padding-bottom: 2rem;
+}
+
+li{
+    list-style-type: none;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+li:hover{
+    background-color: azure;
+    border-radius: 50px;
+}
+
+li:active{
+    background-color: lightblue;
+}
+
+
+#createDiv {
+    float: left;
+    color: white;
+    background-color: grey;
+    border-radius: 50px;
+}
